@@ -16,7 +16,7 @@
 
 ### OS Requirements
 
-`pianno`  package is developped on *Linux* and has been tested on CentOS v7.5.1804 currently. The version suitable for other operating systems is under development. Stay tuned for updates on *https://github.com/yuqiuzhou/Pianno*.
+`pianno`  package is developped on *Linux* and has been tested on CentOS v7.5.1804 and Windows10 currently. The version suitable for other operating systems is under development. Stay tuned for updates on *https://github.com/yuqiuzhou/Pianno*.
 
 ### Python Dependencies
 
