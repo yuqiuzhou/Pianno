@@ -1,0 +1,33 @@
+{
+    "L1": [
+        "CXCL14",
+        "SPARC",
+        "VIM"
+    ],
+    "L2": [
+        "HPCAL1",
+        "C1QL2"
+    ],
+    "L3": [
+        "LINC00507",
+        "HOPX",
+        "CARTPT"
+    ],
+    "L4": [
+        "NEFH",
+        "RORB"
+    ],
+    "L5": [
+        "PCP4",
+        "SMYD2",
+        "TMSB10"
+    ],
+    "L6": [
+        "NR4A2",
+        "SLN"
+    ],
+    "WM": [
+        "MBP",
+        "MOBP"
+    ]
+}

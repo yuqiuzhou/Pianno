@@ -1,0 +1,33 @@
+{
+    "L1": [
+        "CXCL14",
+        "MYL9",
+        "VIM"
+    ],
+    "L2": [
+        "HPCAL1",
+        "PENK"
+    ],
+    "L3": [
+        "FREM3",
+        "CALB1"
+    ],
+    "L4": [
+        "VAMP1",
+        "NEFH",
+        "SYT2"
+    ],
+    "L5": [
+        "PCP4",
+        "TRABD2A"
+    ],
+    "L6": [
+        "KRT17",
+        "NR4A2"
+    ],
+    "WM": [
+        "MOBP",
+        "MBP",
+        "PAQR6"
+    ]
+}

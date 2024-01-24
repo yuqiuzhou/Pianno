@@ -1,0 +1,32 @@
+{
+    "Stroma": [
+        "MMP2"
+    ],
+    "DCIS": [
+        "MZB1"
+    ],
+    "Invasive": [
+        "FASN"
+    ],
+    "ACTA2+ Myoepi.": [
+        "ACTA2"
+    ],
+    "KRT15+ Myoepi.": [
+        "KRT15"
+    ],
+    "Endothelial": [
+        "AQP1"
+    ],
+    "Macrophages": [
+        "CD68"
+    ],
+    "B Cell": [
+        "CD79A"
+    ],
+    "T Cell": [
+        "CD8A"
+    ],
+    "Mast Cell": [
+        "CPA3"
+    ]
+}

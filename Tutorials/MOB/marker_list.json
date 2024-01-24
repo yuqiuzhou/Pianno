@@ -1,0 +1,36 @@
+{
+    "RMS": [
+        "Mbp",
+        "Sox11",
+        "Nrep"
+    ],
+    "GCL": [
+        "Penk",
+        "Camk2n1"
+    ],
+    "IPL": [
+        "Pcp4",
+        "Gad1",
+        "Gng4"
+    ],
+    "ML": [
+        "Gabra1",
+        "Lbhd2",
+        "Uchl1"
+    ],
+    "OPL": [
+        "Cck",
+        "Cdhr1"
+    ],
+    "GL": [
+        "Nrsn1",
+        "Trh",
+        "AI593442"
+    ],
+    "ONL": [
+        "Apod",
+        "Ptn",
+        "Fabp7"
+    ],
+    "Background": []
+}

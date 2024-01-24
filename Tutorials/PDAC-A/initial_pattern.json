@@ -1,0 +1,12 @@
+{
+    "Duct": [
+        "CRISP3"
+    ],
+    "Cancer": [
+        "TM4SF1"
+    ],
+    "Normal": [
+        "PRSS1"
+    ],
+    "Stroma": []
+}

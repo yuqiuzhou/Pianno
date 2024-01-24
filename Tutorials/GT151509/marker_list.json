@@ -1,0 +1,30 @@
+{
+    "L1": [
+        "ALDH6A1",
+        "CST3",
+        "RELN"
+    ],
+    "L2": [
+        "HPCAL1",
+        "C1QL2"
+    ],
+    "L3": [
+        "LINC00507"
+    ],
+    "L4": [
+        "NEFH",
+        "NEFM"
+    ],
+    "L5": [
+        "PCP4"
+    ],
+    "L6": [
+        "CCND1",
+        "POSTN"
+    ],
+    "WM": [
+        "RNASE1",
+        "MBP",
+        "MOBP"
+    ]
+}

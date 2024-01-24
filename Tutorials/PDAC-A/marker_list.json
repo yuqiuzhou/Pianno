@@ -1,0 +1,20 @@
+{
+    "Duct": [
+        "CRISP3",
+        "FOS"
+    ],
+    "Cancer": [
+        "TM4SF1",
+        "KRT17",
+        "LAMC2"
+    ],
+    "Normal": [
+        "CTRC",
+        "GP2",
+        "PRSS1"
+    ],
+    "Stroma": [
+        "TCEANC2",
+        "GFPT2"
+    ]
+}

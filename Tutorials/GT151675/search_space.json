@@ -1,0 +1,51 @@
+{
+    "n_class": {
+        "_type": "choice",
+        "_value": [
+            2,
+            3,
+            3,
+            3
+        ]
+    },
+    "dilation_radius": {
+        "_type": "quniform",
+        "_value": [
+            1,
+            5,
+            1
+        ]
+    },
+    "denoise_weight": {
+        "_type": "quniform",
+        "_value": [
+            0.01,
+            0.2,
+            0.01
+        ]
+    },
+    "unsharp_radius": {
+        "_type": "quniform",
+        "_value": [
+            1,
+            5,
+            1
+        ]
+    },
+    "unsharp_amount": {
+        "_type": "quniform",
+        "_value": [
+            1,
+            20,
+            1
+        ]
+    },
+    "gaussian_blur": {
+        "_type": "quniform",
+        "_value": [
+            1,
+            5,
+            1
+        ]
+    }
+}

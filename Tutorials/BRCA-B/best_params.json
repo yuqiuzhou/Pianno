@@ -1,0 +1,10 @@
+{
+    "9.365180007791782": {
+        "n_class": 2,
+        "dilation_radius": 1.0,
+        "denoise_weight": 0.01,
+        "unsharp_radius": 1.0,
+        "unsharp_amount": 5.0,
+        "gaussian_blur": 1.0
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "L1": [
+        "VIM",
+        "CXCL14",
+        "ACACB"
+    ],
+    "L2": [
+        "HPCAL1",
+        "C1QL2"
+    ],
+    "L3": [
+        "CARTPT",
+        "RASGRF2"
+    ],
+    "L4": [
+        "NEFM",
+        "NEFH"
+    ],
+    "L5": [
+        "PCP4",
+        "TMSB10"
+    ],
+    "L6": [
+        "KRT17",
+        "THEMIS"
+    ],
+    "WM": [
+        "MOBP",
+        "MBP"
+    ]
+}

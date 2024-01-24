@@ -1,0 +1,29 @@
+{
+    "L1": [
+        "CXCL14"
+    ],
+    "L2": [
+        "HPCAL1",
+        "KCNIP2"
+    ],
+    "L3": [
+        "HOPX",
+        "CARTPT",
+        "SNCG"
+    ],
+    "L4": [
+        "PVALB"
+    ],
+    "L5": [
+        "PCP4",
+        "TMSB10"
+    ],
+    "L6": [
+        "SYNPR",
+        "THEMIS"
+    ],
+    "WM": [
+        "H3F3B",
+        "NDRG1"
+    ]
+}

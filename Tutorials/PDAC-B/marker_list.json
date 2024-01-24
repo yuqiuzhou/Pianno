@@ -1,0 +1,13 @@
+{
+    "Duct": [
+        "MUC5B",
+        "CFB",
+        "PRSS8"
+    ],
+    "Cancer": [
+        "MUC4",
+        "MMP11",
+        "SF3B1"
+    ],
+    "Stroma": []
+}
